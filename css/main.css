@@ -84,3 +84,9 @@ article.tile {
     margin-bottom: 1.618em;
 
 }
+
+.guest {
+    border: 10px solid #d5d5d5;
+    margin: 50px;
+    height: 300px;
+}
